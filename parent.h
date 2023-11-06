@@ -8,9 +8,9 @@ class parent{
   parent();
   void getTitle();
   void getYear();
- protected:
   int year;
   char title [80];
+  virtual void display();
 
 
 

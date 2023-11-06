@@ -4,7 +4,8 @@
 using namespace std;
 
 class music : public parent{
-
+  public:
+    music();
 
 
 };

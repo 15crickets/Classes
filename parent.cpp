@@ -6,3 +6,4 @@ parent::parent(){
   cout << "Constructor";
   year = 0;
 }
+

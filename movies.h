@@ -4,7 +4,8 @@
 using namespace std;
 
 class movies : public parent{
-  movies();
+  public:
+    movies();
 
 
 };

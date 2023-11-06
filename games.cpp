@@ -6,14 +6,14 @@ using namespace std;
 
 games::games(){
   cout << "Games";
+  getPublisher();
   
 }
 void games::getPublisher(){
   cout << "Who is the publisher of this game? " << endl;
-  
-  
-
+  vibes = 1;
 
 }
+
 
   

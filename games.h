@@ -9,6 +9,8 @@ class games : public parent{
     void getPublisher();
     void getRating();
     char publisher[40];
+    int vibes;
+  void display();
   
 
 
