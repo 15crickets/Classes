@@ -5,3 +5,5 @@ movies::movies(){
   cout << "Movies";
 
 }
+void movies::display(){
+}

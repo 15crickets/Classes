@@ -6,6 +6,7 @@ using namespace std;
 class movies : public parent{
   public:
     movies();
+    void display();
 
 
 };

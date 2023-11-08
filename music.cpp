@@ -4,3 +4,6 @@
 music::music(){
 
 }
+void music::display(){
+
+}
