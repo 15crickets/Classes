@@ -5,6 +5,7 @@ using namespace std;
 
 class games : public parent{
   public:
+  //initialization of functions and character arrays
     games();
     ~games();
     char publisher[40];

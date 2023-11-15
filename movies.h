@@ -5,8 +5,10 @@ using namespace std;
 
 class movies : public parent{
   public:
+  //initialization of functions and arrays
+
     movies();
-    
+    ~movies();
     char director[40];
 
     void getDirector(char (&director)[40]);
